@@ -1,2 +1,2 @@
 # BTRFS_Manager
-A gui base btrfs manager for linux systems
+A command line interfase btrfs manager tool for linux systems
